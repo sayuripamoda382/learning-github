@@ -12,6 +12,6 @@ when we edit again this file
 the updated commit shows which one is change/ delete
 
 eg:
-- with red backrgound line: this line is deleted
-+ with green background line: this line is added
-anything stay normal: that line is stayed same as in previous commit
+- - with red backrgound line: this line is deleted
++ + with green background line: this line is added
+- anything stay normal: that line is stayed same as in previous commit
